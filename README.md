@@ -1,5 +1,7 @@
 # miniGPT
 
+Refer to this Blog post by Jay Mody: [GPT in 60 Lines of Numpy](https://jaykmody.com/blog/gpt-from-scratch/)
+
 miniGPT is a compact and simplified version of the renowned GPT-2 language model. 
 This project aims to provide a clear and concise implementation of the GPT-2 model, making it easier for developers 
 to understand the fundamental workings of transformer-based language models. Despite its size, miniGPT remains capable 
